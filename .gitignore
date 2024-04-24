@@ -1,3 +1,3 @@
-python/.ipynb_
+**/*. ipynb_checkpoints/
 *.venv
 .vscode

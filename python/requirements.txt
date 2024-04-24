@@ -1,3 +1,5 @@
 langchain
 langchain-openai
 chromadb
+lark
+langchain-chroma
