@@ -1,0 +1,1 @@
+Hello, Welcome to GenAI Lunch & Learn Series.  Isn’t it exciting to Lunch & Learn ? Next Friday we have AI COE Special Event. Don’t miss it ! This is text is to just demonstrate Semantic Chunking. 
