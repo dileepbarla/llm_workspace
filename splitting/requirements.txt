@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+chromadb
+unstructured
+pdf2image
+pdfminer
+pdfminer.six
+pillow_heif
+opencv-python
+unstructured_inference
+pytesseract
+unstructured_pytesseract
+pikepdf
+poppler-utils
+scikit-learn
