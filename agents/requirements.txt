@@ -1,0 +1,5 @@
+nest_asyncio
+llama-index
+llama-index-embeddings-openai
+openpyxl
+langchain_experimental
